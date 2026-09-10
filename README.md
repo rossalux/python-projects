@@ -1,2 +1,1 @@
-# python-resources
-tba
+# Python project by me 
